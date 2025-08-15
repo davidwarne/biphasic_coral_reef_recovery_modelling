@@ -1,8 +1,8 @@
 #  Biphasic generalised modelling and Bayesian analysis framework for coral reef recovery analysis
 
-Tools for Modeling and inference for reef recovery modelling across the Great Barrier Reef. Modelling is motivated by results of the paper,
+Tools for Modeling and inference for reef recovery modelling across the Great Barrier Reef. Modelling and tools are supplementary material of the paper,
 
-DJ Warne, KA Crossman, GEM Heron, JA Sharp, W Jin, PP-Y Wu, MJ Simpson, K Mengersen, J-C Ortiz (2024) Mathematical modelling and uncertainty quantification for analysis of biphasic coral reef recovery patterns. *ArXiv.org*. https://arxiv.org/abs/2406.19591
+DJ Warne, KA Crossman, GEM Heron, JA Sharp, W Jin, PP-Y Wu, MJ Simpson, K Mengersen, J-C Ortiz (2024) Mathematical modelling and uncertainty quantification for analysis of biphasic coral reef recovery patterns. *Bulletin of Mathematical Biology* 87, 129 (2025). https://doi.org/10.1007/s11538-025-01512-3
 
 ## Summary
 
